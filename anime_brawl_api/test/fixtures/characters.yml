@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  series: MyString
+  catchphrase: MyString
+  img: MyString
+  health: 1
+  attack: 1
+  defense: 1
+  speed: 1
+
+two:
+  name: MyString
+  series: MyString
+  catchphrase: MyString
+  img: MyString
+  health: 1
+  attack: 1
+  defense: 1
+  speed: 1
